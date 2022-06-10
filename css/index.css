@@ -1,0 +1,32 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.test {
+    padding: 20vh;
+}
+
+.background1 {
+    background: linear-gradient(to right,#a9ff7b, #a0ffe2, #a8ff78)
+}
+
+.background1 h1 {
+    text-align: center;
+}
+
+.nav {
+    border: solid;
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav a {
+    width: 200px;
+    text-align: center;
+}
